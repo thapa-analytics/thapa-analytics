@@ -86,11 +86,11 @@ My work integrates large administrative datasets, household surveys, and high-re
 ### 2023
 - **Does Private Sector Involvement Improve the Distribution Efficiency of Subsidized Fertilizer?**
    *Thapa, Gaihre, Choudhary, Gautam — Agricultural Economics*.  
-  Natural-experiment evidence on improved fertilizer delivery efficiency.
+  Natural-experiment evidence on impact of private sector engagement on fertilizer delivery efficiency.
 
 - **Can traders' meetings boost seed sales of new rice varieties and promote a market-driven seed system? Evidence from Nepal**
    *Thapa, Gaihre, Choudhary, Khanal, Gautam — Journal of Agribusiness in Developing and Emerging Economies*.  
-  Randomized outreach intervention showing gains in private seed diffusion.
+  Assess the effectiveness of traders meeting in promoting new rice varieties 
 
 ### 2021
 - **Adoption and diffusion of improved technologies and production practices in agriculture: Insights from a donor-led intervention in Nepal**  
