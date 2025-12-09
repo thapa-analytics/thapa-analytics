@@ -50,9 +50,9 @@ My work integrates large administrative datasets, household surveys, and high-re
 
 ## 📄 Research work undergoing in Wisconsin DNR
 
-- *Localized and spillover effects of chronic wasting disease on license sales and hunter participation in Wisconsin* (Manusript ready for submission)
-- *Chronic Wasting Disease and Hunter Behavior in the Upper Midwest: Assessing the Statewide Impact of CWD Detection on Hunting License Sales and Participation in Wisconsin* (Journal under review)
-- *Hunting contributions to the State economy and wildlife conservation: evidence from ruffed grouse hunter expenditures in Wisconsin* (Journal under review)
+- *Localized and spillover effects of chronic wasting disease on license sales and hunter participation in Wisconsin* (Manuscript under review)
+- *Chronic Wasting Disease and Hunter Behavior in the Upper Midwest: Assessing the Statewide Impact of CWD Detection on Hunting License Sales and Participation in Wisconsin* (Manuscript under review)
+- *Hunting contributions to the State economy and wildlife conservation: evidence from ruffed grouse hunter expenditures in Wisconsin* (Manuscript under review)
 - *Lake-Level Fluctuations and Waterfront Home Prices* (Manuscript ready for submission)  
 - **Socio-economic Analysis – Enbridge Line 5 EIS**, Wisconsin DNR (2024) (Published report)  
 
