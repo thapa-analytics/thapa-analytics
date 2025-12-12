@@ -2,7 +2,7 @@
 
 I am an **Agricultural Economist** with the **Wisconsin Department of Natural Resources (WDNR)**, specializing in applied microeconomics, spatial econometrics, and geospatial data science for policy evaluation.
 
-My work integrates large administrative datasets, household surveys, and high-resolution environmental monitoring data to quantify how ecological conditions and regulatory interventions affect economic outcomes — including wildlife recreation participation, property markets, public health compliance costs, and regional economic activity.
+My work integrates large administrative datasets, household surveys, and high-resolution environmental monitoring data to quantify how ecological conditions and regulatory interventions affect economic outcomes including wildlife recreation participation, property markets, public health compliance costs, and regional economic activity.
 
 ## 🔍 Research & Policy Focus- at Wisconsin Department of Natural Resources
 
